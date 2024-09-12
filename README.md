@@ -30,5 +30,3 @@ I am a Software Engineer
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Surya-Sriramoju&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-
-[![Most Used Languagues](https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-Sriramoju&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
